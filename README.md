@@ -1,4 +1,4 @@
-# Coreloops AI Engineer Take-Home
+# Case study
 
 A production-ready data pipeline and ML system for customer transaction forecasting.
 
@@ -54,7 +54,7 @@ coreloops-takehome/
 ```bash
 # Clone the repository
 git clone <repo-url>
-cd coreloops-takehome
+cd case-study-solution
 
 # Create virtual environment
 python -m venv venv
